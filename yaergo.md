@@ -1,6 +1,7 @@
 ##STUDY
-####一款产品从0到1诞生全流程
-http://www.woshipm.com/pd/295310.html
+  
+http://www.woshipm.com/pd/295310.html [一款产品从0到1诞生全流程]  
+http://www.woshipm.com/rp/397820.html [用Axure写PRD]
 
 ##竞品
 ####产品库类
