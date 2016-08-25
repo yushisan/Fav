@@ -5,3 +5,5 @@ http://www.woshipm.com/pd/295310.html
 #竞品
 ##产品库类
 http://product.baby.sina.com.cn/
+http://product.0-6.com/
+http://www.yaolan.com/product/
