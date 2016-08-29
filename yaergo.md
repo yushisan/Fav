@@ -12,5 +12,10 @@ http://product.0-6.com/
 http://www.yaolan.com/product/  
 
 ##label
+###分类
+类目 e.g. 奶粉 纸尿裤  
+时间线 e.g. 宝宝（0-6） 妈妈（-1）  
+商城 e.g. 京东 天猫
+品牌 e.g. 多美滋
 ####产品库
 关注度 好评 最新加入 
