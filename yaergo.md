@@ -10,3 +10,7 @@ http://www.woshipm.com/pd/80054.html [产品需求文档(PRD)的写作方法]
 http://product.baby.sina.com.cn/  
 http://product.0-6.com/  
 http://www.yaolan.com/product/  
+
+##label
+####产品库
+关注度 好评 最新加入 
