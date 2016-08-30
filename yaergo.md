@@ -25,3 +25,5 @@ tags e.g. 易吸收, 好消化, 水果味
 ##MayBe
 ###清单
 可分专辑/专题 e.g 待产包：...
+###可用模板
+/res/member/clients.html
