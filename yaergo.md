@@ -6,21 +6,21 @@ http://www.woshipm.com/xiazai/346047.html [Axure组件库]
 http://www.woshipm.com/pd/80054.html [产品需求文档(PRD)的写作方法]
 
 ##各种
-####产品库类
-http://product.baby.sina.com.cn/  
-http://product.0-6.com/  
-http://www.yaolan.com/product/  
-http://info.ci123.com/brand/list/index.php 
-####选购
-http://www.chinapp.com/baike/muyingyongpinlei 
-####百科 
-http://baike.pcbaby.com.cn/ 
-http://www.angel02.com/baike/ 
-####网站
-http://bb.zol.com.cn/516/5168783.html 
-http://www.qinbei.com/ 
-https://baobao.baidu.com/ 
-http://www.muyingduo.com/
+####产品库类  
+http://product.baby.sina.com.cn/   
+http://product.0-6.com/   
+http://www.yaolan.com/product/    
+http://info.ci123.com/brand/list/index.php   
+####选购  
+http://www.chinapp.com/baike/muyingyongpinlei   
+####百科  
+http://baike.pcbaby.com.cn/   
+http://www.angel02.com/baike/   
+####网站  
+http://bb.zol.com.cn/516/5168783.html  
+http://www.qinbei.com/   
+https://baobao.baidu.com/   
+http://www.muyingduo.com/  
 
 ##label
 ###分类
@@ -42,10 +42,10 @@ tags e.g. 易吸收, 好消化, 水果味
 
 
 ##UI  
-http://www.babyschool.com.cn/ 
-http://www.lamabang.com/baike 
-http://www.yuying360.com/ 年龄引导条 
-http://www.angel02.com/baike/ 年龄引导条 
-http://www.muyingduo.com/ 
-http://www.itjuzi.com/company/2977  
-http://www.tuicool.com/articles/VN7fAj
+http://www.babyschool.com.cn/  
+http://www.lamabang.com/baike  
+http://www.yuying360.com/ 年龄引导条  
+http://www.angel02.com/baike/ 年龄引导条  
+http://www.muyingduo.com/  
+http://www.itjuzi.com/company/2977   
+http://www.tuicool.com/articles/VN7fAj  
