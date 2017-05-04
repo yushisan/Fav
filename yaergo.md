@@ -27,6 +27,8 @@ https://baobao.baidu.com/
 http://www.muyingduo.com/  
 ####资讯  
 https://244306.kuaizhan.com/  
+###常见问答
+http://www.yunyu51.com/yubk/
   
 ##label
 ###分类
@@ -55,3 +57,4 @@ http://www.angel02.com/baike/ 年龄引导条
 http://www.muyingduo.com/  
 http://www.itjuzi.com/company/2977   
 http://www.tuicool.com/articles/VN7fAj  
+http://www.chinesedir.com/  
