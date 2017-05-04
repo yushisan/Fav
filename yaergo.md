@@ -19,6 +19,7 @@ http://baike.pcbaby.com.cn/
 http://www.angel02.com/baike/ 
 http://www.mamaai.cn/baike/  
 http://baby.wenkang.cn/  
+**http://www.guaiguai.com/baike/  
 ####网站  
 http://bb.zol.com.cn/516/5168783.html  
 http://www.qinbei.com/   
