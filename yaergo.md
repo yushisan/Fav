@@ -11,17 +11,22 @@ http://product.baby.sina.com.cn/
 http://product.0-6.com/   
 http://www.yaolan.com/product/    
 http://info.ci123.com/brand/list/index.php   
+http://www.baobei360.com/   
 ####选购  
 http://www.chinapp.com/baike/muyingyongpinlei   
 ####百科  
 http://baike.pcbaby.com.cn/   
-http://www.angel02.com/baike/   
+http://www.angel02.com/baike/ 
+http://www.mamaai.cn/baike/  
+http://baby.wenkang.cn/  
 ####网站  
 http://bb.zol.com.cn/516/5168783.html  
 http://www.qinbei.com/   
 https://baobao.baidu.com/   
 http://www.muyingduo.com/  
-
+####资讯  
+https://244306.kuaizhan.com/  
+  
 ##label
 ###分类
 类目 e.g. 奶粉 纸尿裤  
