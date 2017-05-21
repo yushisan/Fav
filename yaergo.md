@@ -23,7 +23,8 @@ http://www.mamaai.cn/baike/
 http://baby.wenkang.cn/  
 http://ye.99.com.cn/yuerbk/   
 **http://www.guaiguai.com/baike/  
-**http://www.jbaobao.com/baike/  
+**http://www.jbaobao.com/baike/   
+**http://www.ci123.com/baike/   
 ####网站  
 http://bb.zol.com.cn/516/5168783.html  
 http://www.qinbei.com/   
