@@ -64,4 +64,5 @@ http://www.muyingduo.com/
 http://www.itjuzi.com/company/2977   
 http://www.tuicool.com/articles/VN7fAj  
 http://www.chinesedir.com/  
-http://www.lifespacecommunities.com/  Nav_bottom
+http://www.lifespacecommunities.com/  Nav_bottom   
+http://www.liqucn.com/rj/239123.shtml   
